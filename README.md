@@ -63,7 +63,7 @@ Make sure you have Python installed on your system (Python 3.6 or higher is reco
 
 ```bash
 
-git clone ttps://github.com/Suryansh0098/Fitness-and-Calorie-Tracker
+git clone https://github.com/Suryansh0098/Fitness-and-Calorie-Tracker
 
 cd Fitness-and-Calorie-Tracker
 
