@@ -59,14 +59,16 @@ Make sure you have Python installed on your system (Python 3.6 or higher is reco
 ### Installation. Execution
 
 1. Clone The Repository:
+   
 
 ```bash
 
-git clone https://github.com/Suryansh0098/The Fitness And Calorie Tracker.git
+git clone ttps://github.com/Suryansh0098/Fitness-and-Calorie-Tracker
 
-cd your-repository-name
+cd Fitness-and-Calorie-Tracker
 
 ```
+
 
 2. Verify Project Structure:
 
